@@ -1,18 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=padalasuraj.padalasuraj" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Captain+Blacksquad+✨;+I'm+Padala+Suraj💫
-        
-;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Captain+Blacksquad+👋;+I'm+Padala+Suraj!;" />
 </h1>
-<h3 align="center">A passionate software developer from India </h3>
 <br/>
+
 <div align="center">
  
-
- 💬 Grill me about **Node.js, React, Firebase, MongoDB or anything [here](https://github.com/padalasuraj/padalasuraj/issues)**
-
+ 🔭 I’m currently working on **START UP**
  
+ 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/padalasuraj/padalasuraj/issues)**
+
+ ⚡ Fun fact **once a spy always a spy**
  
  </div>
  
