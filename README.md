@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **START UP**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/padalasuraj/padalasuraj/issues)**
 
- ⚡ Fun fact **once a spy always a spy**
+ 
  
  </div>
  
